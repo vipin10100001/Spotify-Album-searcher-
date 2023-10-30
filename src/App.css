@@ -1,0 +1,56 @@
+/* App.css */
+
+/* Style for the whole app container */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style for the search input and button */
+.InputGroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style for the search input field */
+.FormControl {
+  width: 70%;
+  margin-right: 10px;
+}
+
+/* Style for the search button */
+.Button {
+  background-color: #1DB954;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Change button color on hover */
+.Button:hover {
+  background-color: #1A9234;
+}
+
+/* Style for album cards */
+.Card {
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for album images */
+.Card.Img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Style for album titles */
+.Card.Title {
+  margin: 10px 0;
+  font-weight: bold;
+}
