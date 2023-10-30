@@ -1,6 +1,9 @@
 # Spotify-Album-searcher-
 Spotify Album searcher web App using React,Spotify API,Bootstrap ; where user can search the album name entering the name of the Artist.
 
+# Get CLIENT_ID & CLIENT_SECRET_KEY -Spotify API 
+Get client_id & Client_secret from [Spotify for Developers-Web API ](https://developer.spotify.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
